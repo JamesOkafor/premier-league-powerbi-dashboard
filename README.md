@@ -36,9 +36,7 @@ Built with 7+ datasets combining:
 - Average Team Age  
 - Total Annual Salary by Team  
 - Breakdown by Player  
-![Page 2](https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(2).JPG?raw=true
-
-)
+![Page 2](https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(2).JPG?raw=true)
 
 ---
 
