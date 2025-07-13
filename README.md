@@ -1,8 +1,5 @@
 # premier-league-powerbi-dashboard
-Interactive EPL dashboard using Power BI for data storytelling KPIs, team stats, match goals, and salary insights.
-# Premier League Power BI Dashboard
-
-An interactive and insightful dashboard that visualizes detailed stats from the English Premier League using Power BI.
+An interactive multi-page Power BI dashboard showcasing rich insights from the English Premier League player stats, team salaries, match goals, and performing KPIs.
 
 Built with 7+ datasets combining:
 - Player statistics
@@ -31,7 +28,7 @@ Built with 7+ datasets combining:
 - Salary by Player  
 - Salary by Nationality  
 - Touches and Possession Stats  
-![Page 1](https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(1).JPG?raw=true)
+![Page 1] (https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(1).JPG?raw=true)
 
 ---
 
@@ -39,7 +36,7 @@ Built with 7+ datasets combining:
 - Average Team Age  
 - Total Annual Salary by Team  
 - Breakdown by Player  
-![Page 2](https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(2).JPG?raw=true
+![Page 2] (https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(2).JPG?raw=true
 
 )
 
@@ -50,7 +47,7 @@ Built with 7+ datasets combining:
 - Total Goals  
 - Top Performing Fixtures  
 - Match Score Breakdown  
-![Page 3](https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(3).JPG?raw=true)
+![Page 3] (https://github.com/JamesOkafor/premier-league-powerbi-dashboard/blob/main/EPL%2024-25%20(3).JPG?raw=true)
 
 ---
 
